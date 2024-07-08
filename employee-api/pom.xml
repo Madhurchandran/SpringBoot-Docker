@@ -104,7 +104,7 @@
 			<plugin>
 				<groupId>com.spotify</groupId>
 				<artifactId>docker-maven-plugin</artifactId>
-				<version>1.0.0</version>
+				<version>3.9.8</version>
 				<configuration>
 					<imageName>employee-api</imageName>
 					<baseImage>java:8</baseImage>
